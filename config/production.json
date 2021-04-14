@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://akshit:Ak@786911@devcom.9ztgq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"iplexsecrettoken",
+    "githubClientId":"b4d0998974cfec6a5f89",
+    "githubSecret":"5a13e5fd1234ec094cf13399c09cfcb9e9111e06"
+}
